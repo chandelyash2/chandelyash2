@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://your-portfolio-link.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=react"/></a>
+  <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:chandel.yash2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
