@@ -4,12 +4,6 @@
   🚀 <b>Full-Stack Developer</b> | MERN | GraphQL | Cloud Deployment  
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank">LinkedIn</a> •
-  <a href="mailto:chandel.yash2@gmail.com">Email</a> •
-  <a href="https://nimbiwolfpack.com/" target="_blank">Portfolio</a>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -93,16 +87,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandelyash2&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Yash's Contribution Graph" />
-</p>
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://nimbiwolfpack.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=react"/></a>
-  <a href="mailto:chandel.yash2@gmail.com"><img src="https://img.shields.io/badge/Email-chandel.yash2%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
