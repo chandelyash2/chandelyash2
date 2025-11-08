@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+👋+I'm+Yash+Chandel;Full+Stack+Developer+%7C+MERN+%7C+GraphQL+%7C+Cloud+Deployment;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Yash Chandel</span></h1>
+
 
 <p align="center">
   🚀 <b>Full-Stack Developer</b> | MERN | GraphQL | Cloud Deployment  
