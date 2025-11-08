@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey there, I'm Yash Chandel</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+👋+I'm+Yash+Chandel;Full+Stack+Developer+%7C+MERN+%7C+GraphQL+%7C+Cloud+Deployment;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   🚀 <b>Full-Stack Developer</b> | MERN | GraphQL | Cloud Deployment  
@@ -17,7 +19,7 @@
 - 🧩 Currently building **automated invoicing and shift management systems**
 - 🌱 Exploring **Microservices Architecture**, **Serverless Deployments**, and **System Design**
 - 💬 Ask me about **React, Next.js, Node.js, GraphQL, MongoDB**
-- ⚡ Fun fact: I love turning complex backend logic into seamless, intuitive user experiences
+- ⚡ Fun fact: I love turning complex backend logic into seamless, interactive user experiences
 
 ---
 
@@ -62,30 +64,34 @@
 ---
 
 #### ⚽ [Taka.io](https://taka.io)
-> A **sports analytics and social engagement platform** for football fans — powered by **Next.js**, **BigQuery**, and **Algolia**.  
-> Focused on delivering personalized insights, match data, and fan interaction at scale.
+> A **sports analytics and fan engagement platform** for football enthusiasts — powered by **Next.js**, **BigQuery**, and **Algolia**.  
+> Delivers personalized insights, match data, and social experiences.
 
 ---
 
 #### 🐺 [NimbiWolfpack.com](https://nimbiwolfpack.com)
-> A **creative and development agency** website built using **Next.js** and **Framer Motion**,  
-> Showcasing cutting-edge design, smooth animations, and strong branding.
+> A **creative and development agency** site built using **Next.js** and **Framer Motion**,  
+> featuring stunning animations, interactive components, and clean UI design.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=chandelyash2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
-    alt="Yash's GitHub Stats" height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandelyash2&layout=compact&theme=radical&hide=html,css&cache_seconds=1800" 
-    alt="Top Languages" height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandelyash2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandelyash2&layout=compact&theme=radical&hide=html,css&cache_seconds=1800" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandelyash2&theme=radical&hide_border=false" alt="Yash's GitHub Streak" />
+</p>
+
+---
+
+### 🖥️ GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandelyash2&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Yash's Contribution Graph" />
+</p>
 
 ---
 
@@ -93,9 +99,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://nimbiwolfpack.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=react"/></a>
   <a href="mailto:chandel.yash2@gmail.com"><img src="https://img.shields.io/badge/Email-chandel.yash2%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-⭐️ *From [Yash Chandel](https://github.com/YashChandel)*
+⭐️ *From [Yash Chandel](https://github.com/chandelyash2)*
