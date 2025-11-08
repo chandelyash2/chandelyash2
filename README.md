@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Yash Chandel</span></h1>
 
-
 <p align="center">
   🚀 <b>Full-Stack Developer</b> | MERN | GraphQL | Cloud Deployment  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:chandel.yash2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank">LinkedIn</a> •
+  <a href="mailto:chandel.yash2@gmail.com">Email</a> •
+  <a href="https://nimbiwolfpack.com/" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -29,16 +29,22 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Apollo Client](https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql)
+![Codegen](https://img.shields.io/badge/GraphQL%20Codegen-E10098?style=for-the-badge&logo=graphql)
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![WebSockets](https://img.shields.io/badge/WebSockets-2C3E50?style=for-the-badge&logo=socket.io)
 
-#### ☁️ DevOps & Tools
+#### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
 
@@ -85,9 +91,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandelyash2&theme=radical&hide_border=false" alt="Yash's GitHub Streak" />
 </p>
 
----
-
-### 🖥️ GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandelyash2&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Yash's Contribution Graph" />
 </p>
