@@ -76,9 +76,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashChandel&show_icons=true&theme=radical" alt="Yash's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChandel&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chandelyash2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    alt="Yash's GitHub Stats" height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandelyash2&layout=compact&theme=radical&hide=html,css&cache_seconds=1800" 
+    alt="Top Languages" height="165"
+  />
 </p>
+
 
 ---
 
@@ -86,7 +93,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://nimbiwolfpack.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=react"/></a>
   <a href="mailto:chandel.yash2@gmail.com"><img src="https://img.shields.io/badge/Email-chandel.yash2%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
