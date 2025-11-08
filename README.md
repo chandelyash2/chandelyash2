@@ -13,11 +13,11 @@
 
 ### 🧠 About Me
 
-- 💼 Full-Stack Developer passionate about building scalable web platforms  
+- 💼 Full-Stack Developer passionate about building scalable, high-performance web applications  
 - 🧩 Currently building **automated invoicing and shift management systems**
-- 🌱 Learning **Microservices Architecture** and **Serverless Deployments**
+- 🌱 Exploring **Microservices Architecture**, **Serverless Deployments**, and **System Design**
 - 💬 Ask me about **React, Next.js, Node.js, GraphQL, MongoDB**
-- ⚡ Fun fact: I love turning complex backend logic into clean, interactive UIs
+- ⚡ Fun fact: I love turning complex backend logic into seamless, intuitive user experiences
 
 ---
 
@@ -46,17 +46,30 @@
 ### 🚀 Featured Projects
 
 #### 🧾 Invoice Automation System
-> A complete invoicing and shift management platform built using **React**, **Node.js**, and **MongoDB**.
-- Supports month-end invoice splitting logic
-- Dynamic PDF generation using Puppeteer
-- Federal holidays & automated shift-hour calculations
+> A complete invoicing and shift management platform built using **React**, **Node.js**, and **MongoDB**.  
+> Designed to simplify invoice generation with automated calculations and PDF export.
 
-#### 🌐 Portfolio Website
-> Built using **Next.js**, **TailwindCSS**, and **Framer Motion**  
-Fully responsive with elegant animations and modern design.
+- Supports month-end invoice splitting logic  
+- Dynamic PDF generation using Puppeteer  
+- Federal holiday management & automated shift-hour calculations  
 
-#### 📊 API Performance Dashboard
-> A GraphQL-powered analytics dashboard to visualize API and server metrics in real-time.
+---
+
+#### 💰 [ConnectPay.com](https://connectpay.com)
+> A secure, modern **payment management and processing platform** built with **Next.js**, **Node.js**, and **GraphQL**.  
+> Enables smooth digital transactions with real-time payment analytics and API integrations.
+
+---
+
+#### ⚽ [Taka.io](https://taka.io)
+> A **sports analytics and social engagement platform** for football fans — powered by **Next.js**, **BigQuery**, and **Algolia**.  
+> Focused on delivering personalized insights, match data, and fan interaction at scale.
+
+---
+
+#### 🐺 [NimbiWolfpack.com](https://nimbiwolfpack.com)
+> A **creative and development agency** website built using **Next.js** and **Framer Motion**,  
+> Showcasing cutting-edge design, smooth animations, and strong branding.
 
 ---
 
@@ -72,9 +85,9 @@ Fully responsive with elegant animations and modern design.
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://your-portfolio-link.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=react"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-me%40yashchandel.dev-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/yash-chandel-566242172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yash_Chandel-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://nimbiwolfpack.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=for-the-badge&logo=react"/></a>
+  <a href="mailto:chandel.yash2@gmail.com"><img src="https://img.shields.io/badge/Email-chandel.yash2%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
