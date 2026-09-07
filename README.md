@@ -177,7 +177,7 @@ I’m particularly interested in problems involving:
 <p align="center">
   <a href="https://github.com/chandelyash2">GitHub</a>
   ·
-  <a href="https://www.linkedin.com/in/yash-chandel/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yash-chandel-566242172/">LinkedIn</a>
 </p>
 
 <p align="center">
