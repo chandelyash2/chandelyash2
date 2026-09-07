@@ -170,16 +170,7 @@ I’m particularly interested in problems involving:
 * Automation
 * System design
 
----
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandelyash2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandelyash2&layout=compact&hide_border=true&hide=html,css" height="165" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
